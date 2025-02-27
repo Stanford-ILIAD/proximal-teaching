@@ -1,2 +1,5 @@
 # Shared Autonomy for Proximal Teaching
 Public release for our HRI 2025 paper "Shared Autonomy for Proximal Teaching", published at HRI 2025. 
+
+
+What if your self-driving car could also help teaching you how to drive? There may be many reasons why a human user might wish to drive, including safety critical scenarios, sports like high performance racing, and also simply for personal enjoyment with the feel of driving. However, driving instuction, like many motor skill learning tasks, can be expensive and difficult to access. One important aspect of coaching is personalization: identifying the skills a student learner is struggling with, and should focus on improving. In our paper, we show how semi-autonomous vehicle features (e.g. steering assist) can be used to help identify a student's "zone of proximal development", or the space of skills they find most learnable. We then use this to provide AI-assisted coaching for a high performance racing task in CARLA Simulation Thunder Hill, a famouse raceway in Norther California. Across n=50 users, our AI-assisted coach leads to improvements across a variety of metrics (e.g. speed, smoothness) versus self practice! 
